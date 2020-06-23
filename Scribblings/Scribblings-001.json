@@ -1,0 +1,27 @@
+{
+    "parameterSets": {
+        "First": {
+            "blue": "[0, 0, 1]",
+            "green": "[0, 1, 0]",
+            "red": "[1, 0, 0]",
+            "xDisplacement": "3",
+            "xLength": "7",
+            "yDisplacement": "4",
+            "yLength": "3",
+            "zDisplacement": "5",
+            "zLength": "4"
+        },
+        "Second": {
+            "blue": "[0, 0, 1]",
+            "green": "[0, 1, 0]",
+            "red": "[1, 0, 0]",
+            "xDisplacement": "0",
+            "xLength": "9",
+            "yDisplacement": "4",
+            "yLength": "1",
+            "zDisplacement": "5",
+            "zLength": "4"
+        }
+    },
+    "fileFormatVersion": "1"
+}

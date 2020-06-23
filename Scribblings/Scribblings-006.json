@@ -1,0 +1,10 @@
+{
+    "parameterSets": {
+        "fred": {
+            "bevelSize": "5",
+            "bevelVector": "[45, 20]",
+            "zeroVector": "[0, 0, 0]"
+        }
+    },
+    "fileFormatVersion": "1"
+}

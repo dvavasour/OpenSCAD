@@ -1,0 +1,18 @@
+{
+    "parameterSets": {
+        "Second": {
+            "$fa": "0.5",
+            "$fs": "0.5",
+            "centerTorF": "true",
+            "sphereColour": "[0, 0, 0]",
+            "sphereRadius": "14",
+            "xDisplacement": "6",
+            "xLength": "20",
+            "yDisplacement": "0",
+            "yLength": "20",
+            "zDisplacement": "0",
+            "zLength": "20"
+        }
+    },
+    "fileFormatVersion": "1"
+}
